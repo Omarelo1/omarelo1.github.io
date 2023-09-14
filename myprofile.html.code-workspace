@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../omar_elo"
+		},
+		{
+			"path": "../HTML.NY"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web.html"
+	}
+}
